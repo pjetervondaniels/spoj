@@ -5,7 +5,7 @@
 My solutions to [SPOJ] problems. If possible, I will try to add more solutions in the future.
 Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey, check out my profile at SPOJ [here]. :)
 
-## Problems by Category
+## :memo: Problems by Category
      
  - Classical
  - Challenge
@@ -13,8 +13,17 @@ Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey
  - Tutorial
  - Riddle
  - Basics
+ 
+## 🤔 How to contribute
 
-## About SPOJ
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
+
+After the merge of your pull request is done, you can delete your branch.
+
+## 🔖 About SPOJ
 
 The SPOJ platform is centered around an online judge system, which serves for the automatic assessment of user-submitted programs. Some of its most important features include:
 
@@ -28,6 +37,7 @@ The SPOJ platform is centered around an online judge system, which serves for th
 
 more than 2400 contests hosted as of 2012, ranging from instant challenges to long-term e-learning courses.
 
+## :memo: Licence
 The SPOJ is available under the [MIT] license.
 
 [SPOJ]: https://www.spoj.com/
