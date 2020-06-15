@@ -26,8 +26,6 @@ A plataforma SPOJ é centrada em torno de um sistema de juízes on-line, que ser
 
 - Gerenciamento intuitivo de conteúdo baseado em navegador, que permite que os usuários configurem seus próprios concursos em questão de minutos e utilizem as tarefas já disponíveis no sistema.
 
-mais de 2400 concursos organizados a partir de 2012, que vão desde desafios instantâneos a cursos de e-learning de longo prazo.
-
 ## Licença
 
 O SPOJ está disponível sob a licença [MIT].
