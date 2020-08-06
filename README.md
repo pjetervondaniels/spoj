@@ -2,34 +2,34 @@
     <img src="https://i.imgur.com/XesIl5q.png" width="250px" />
 </h1>
 
-Minhas soluções para problemas [SPOJ]. Se possível, tentarei adicionar mais soluções no futuro.
-Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou C. Ei, confira meu perfil no SPOJ [aqui]. :)
+My solutions to problems [SPOJ]. If possible, I will try to add more solutions in the future.
+Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey, check out my profile on SPOJ [here]. :)
 
-## Problemas por categoria
+## Problems by category
      
-  - Clássica
-  - Desafio
-  - Parcial
+  - Classical
+  - Challenge
+  - Partial
   - Tutorial
-  - Enigma
-  - Fundamentos
+  - Puzzle
+  - Fundamentals
   
-## Sobre o SPOJ
+## About SPOJ
 
-A plataforma SPOJ é centrada em torno de um sistema de juízes on-line, que serve para a avaliação automática de programas enviados por usuários. Algumas de suas características mais importantes incluem:
+The SPOJ platform is centered around an online judge system, which serves for the automatic evaluation of programs sent by users. Some of its most important features include:
 
-- Suporte para mais de 45 linguagens de programação e compiladores, incluindo C, C ++, Pascal, JAVA, C #, Perl, Python, Ruby, Haskell, Ocaml e linguagens esotéricas.
+- Support for more than 45 programming languages ​​and compilers, including C, C ++, Pascal, JAVA, C #, Perl, Python, Ruby, Haskell, Ocaml and esoteric languages.
 
-- Um conjunto de problemas em rápido crescimento de cerca de 13.000 tarefas disponíveis para a prática 24 horas / dia (em inglês, polonês, vietnamita, português e outros idiomas), incluindo muitas tarefas originais preparadas pela comunidade de solucionadores de problemas especializados associados ao projeto.
+- A rapidly growing problem set of about 13,000 tasks available for practice 24 hours a day (in English, Polish, Vietnamese, Portuguese and other languages), including many original tasks prepared by the specialist problem solver community associated with the project .
 
-- Um sistema de teste flexível, suportando interação dinâmica com programas enviados e saída altamente personalizável dos resultados da avaliação.
+- A flexible test system, supporting dynamic interaction with submitted programs and highly customizable output of evaluation results.
 
-- Gerenciamento intuitivo de conteúdo baseado em navegador, que permite que os usuários configurem seus próprios concursos em questão de minutos e utilizem as tarefas já disponíveis no sistema.
+- Intuitive browser-based content management, which allows users to set up their own contests in minutes and use tasks already available on the system.
 
-## Licença
+## License
 
-O SPOJ está disponível sob a licença [MIT].
+SPOJ is available under the [MIT] license.
 
 [SPOJ]: https://www.spoj.com/
-[aqui]: https://www.spoj.com/status/pedrodj/
+[here]: https://www.spoj.com/status/pedrodj/
 [MIT]: https://opensource.org/licenses/mit-license.php
